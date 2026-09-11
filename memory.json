@@ -1,0 +1,23 @@
+{
+    "title": "Launching a Smartphone in the Indian Market \u2013 Battery Requirements",
+    "date": "September 10, 2026",
+    "summary": "The user is seeking guidance on the requirements for launching a smartphone in India, specifically what factors need to be considered and which type of battery is appropriate for the device.",
+    "messages": [
+        {
+            "role": "user",
+            "content": "i want to lauch a smartphone in indian market what things i need to consider?"
+        },
+        {
+            "role": "assistant",
+            "content": "To launch a smartphone in India you must address the following items that are listed in the provided context:\n\n1. **Applicable Standards**  \n   - Ensure the device complies with **IS\u202f13252 (Part\u202f1) / IS/IEC\u202f62368\u20111: 2018/2023**.\n\n2. **Scope Confirmation**  \n   - Your product must be a **smartphone, feature phone, satellite handheld or cellular\u2011IoT handheld voice/data terminal**.  \n   - It must **not** be a fixed\u2011wireless desktop phone or a non\u2011cellular walkie\u2011talkie.\n\n3. **Key Safety & Test Parameters**  \n   - **Specific Absorption Rate (SAR)** compliance.  \n   - **Battery over\u2011charge protection**.  \n   - **Secondary cell isolation**.  \n   - Provide the **physical factory address** and a **target model list**.\n\n4. **Legal Documentation**  \n   - **Form\u202fII \u2013 Legal Undertaking & Affidavit**: a notarized, non\u2011judicial\u2011stamp\u2011paper affidavit confirming statutory compliance, market\u2011surveillance sample collection, and acknowledgment of penal liabilities under the **BIS Act\u202f2016**.  \n   - The form must be **signed by the CEO or a designated legal signatory**.\n\n5. **Authorized Indian Representative (AIR)**  \n   - If the manufacturer is overseas, complete **Form\u202fIII \u2013 AIR Designation Form** to appoint an authorized Indian representative.\n\n6. **Regulatory Process**  \n   - Submit the above documentation and test reports to the Bureau of Indian Standards (BIS) for type\u2011approval.  \n   - Be prepared for post\u2011approval market surveillance and possible penalties for non\u2011compliance.\n\nBy covering these standards, safety tests, documentation, and representation requirements, you will meet the regulatory prerequisites for launching a smartphone in the Indian market."
+        },
+        {
+            "role": "user",
+            "content": "what kind of battery should be inside it"
+        },
+        {
+            "role": "assistant",
+            "content": "The battery should be a **sealed secondary (rechargeable) lithium\u2011ion or lithium\u2011polymer cell** (including coin\u2011cell versions or multi\u2011cell packs) as covered by IS\u202f16046\u202f(Part\u202f2) / IEC\u202f62133\u20112:2017. Primary non\u2011rechargeable lithium coin cells, nickel\u2011based systems, and lead\u2011acid batteries are excluded."
+        }
+    ]
+}
